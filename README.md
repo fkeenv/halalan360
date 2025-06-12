@@ -15,13 +15,13 @@ In an age of misinformation and noise, Halalan360 cuts through the clutter by pr
 
 ## 🎯 Mission
 
-> **To empower every Filipino voter with accessible, accurate, and actionable information about the people running for public office.**
+To empower every Filipino voter with accessible, accurate, and actionable information about the people running for public office.**
 
 ---
 
 ## 🌟 Vision
 
-> **A future where every vote is informed, every candidate is accountable, and every Filipino participates in democracy with confidence and clarity.**
+A future where every vote is informed, every candidate is accountable, and every Filipino participates in democracy with confidence and clarity.**
 
 ---
 
