@@ -1,70 +1,61 @@
-# 🇵🇭 Halalan360
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-**Your 360° guide to the Philippine elections.**  
-Know your candidates. Make informed choices. Vote with confidence.
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
----
+## About Laravel
 
-## 📌 Overview
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-**Halalan360** is a civic-tech platform designed to help Filipino voters make informed decisions by providing an accessible, centralized space for exploring candidate profiles, credentials, platforms, and track records. Think of it as a "LinkedIn for government candidates" — modern, reliable, and made for every voter.
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-In an age of misinformation and noise, Halalan360 cuts through the clutter by presenting verified, easy-to-understand information to empower the Filipino electorate.
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
----
+## Learning Laravel
 
-## 🎯 Mission
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-To empower every Filipino voter with accessible, accurate, and actionable information about the people running for public office.**
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
----
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## 🌟 Vision
+## Laravel Sponsors
 
-A future where every vote is informed, every candidate is accountable, and every Filipino participates in democracy with confidence and clarity.**
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
----
+### Premium Partners
 
-## 💡 Purpose
+- **[Vehikl](https://vehikl.com)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
+- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
+- **[Redberry](https://redberry.international/laravel-development)**
+- **[Active Logic](https://activelogic.com)**
 
-Elections are at the heart of a functioning democracy — but too often, voters are left guessing about who their candidates are, what they stand for, and what they've done in the past.
+## Contributing
 
-**Halalan360 was built to solve these key problems:**
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-- ❌ Lack of centralized, trustworthy info about candidates  
-- ❌ Voter fatigue from information overload and fake news  
-- ❌ Difficulty comparing candidates' experience and platforms  
-- ❌ Low engagement from younger and first-time voters  
+## Code of Conduct
 
-With Halalan360, voters can:
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-- ✅ Discover candidates based on their city/region and position  
-- ✅ Read verified bios, platforms, and previous experience  
-- ✅ Compare multiple candidates side by side  
-- ✅ Stay informed without needing to jump between unreliable sources
+## Security Vulnerabilities
 
----
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## 🚀 Who Is It For?
+## License
 
-- First-time voters looking for a simplified guide  
-- Concerned citizens who want to fact-check and compare  
-- Educators and youth leaders running voter education programs  
-- Journalists, civic groups, and advocacy organizations  
-- Every Filipino who values their vote
-
----
-
-## 📲 Live Demo / App Preview (coming soon)
-
-Stay tuned!
-
----
-
-## 🤝 Contributing
-
-Interested in helping out? Whether you're into development, fact-checking, UI/UX, or civic education — you're welcome here. Drop us a message or start a pull request!
-
----
-
-## 🗳️ Because an informed voter is a powerful voter.
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
