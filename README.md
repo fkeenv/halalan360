@@ -31,26 +31,26 @@ Elections are at the heart of a functioning democracy — but too often, voters 
 
 **Halalan360 was built to solve these key problems:**
 
-- ❌ Lack of centralized, trustworthy info about candidates  
-- ❌ Voter fatigue from information overload and fake news  
-- ❌ Difficulty comparing candidates' experience and platforms  
-- ❌ Low engagement from younger and first-time voters  
+- ❌ Lack of centralized, trustworthy info about candidates
+- ❌ Voter fatigue from information overload and fake news
+- ❌ Difficulty comparing candidates' experience and platforms
+- ❌ Low engagement from younger and first-time voters
 
 With Halalan360, voters can:
 
-- ✅ Discover candidates based on their city/region and position  
-- ✅ Read verified bios, platforms, and previous experience  
-- ✅ Compare multiple candidates side by side  
+- ✅ Discover candidates based on their city/region and position
+- ✅ Read verified bios, platforms, and previous experience
+- ✅ Compare multiple candidates side by side
 - ✅ Stay informed without needing to jump between unreliable sources
 
 ---
 
 ## 🚀 Who Is It For?
 
-- First-time voters looking for a simplified guide  
-- Concerned citizens who want to fact-check and compare  
-- Educators and youth leaders running voter education programs  
-- Journalists, civic groups, and advocacy organizations  
+- First-time voters looking for a simplified guide
+- Concerned citizens who want to fact-check and compare
+- Educators and youth leaders running voter education programs
+- Journalists, civic groups, and advocacy organizations
 - Every Filipino who values their vote
 
 ---
